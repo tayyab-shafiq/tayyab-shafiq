@@ -1,6 +1,6 @@
 # Welcome to My Profile!
 
-I'm Tayyab Sahfiq, a [Computer Science undergrad/Software Engineer/ML Enthusiast] passionate about creating innovative solutions and exploring the world of technology. This README serves as an introduction to who I am and what you can expect to find in my profile.
+I'm Tayyab Sahfiq, a Computer Science undergrad/Software Engineer/ML Enthusiast passionate about creating innovative solutions and exploring the world of technology. This README serves as an introduction to who I am and what you can expect to find in my profile.
 
 ## About Me
 
