@@ -34,7 +34,7 @@ I regularly write technical articles on topics related to machine learning, prog
 Feel free to reach out to me through the following channels:
 
 - Email: [Your Email Address]
-- [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/tayyab-shafiq-11b587171/)
+- [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/tayyab-shafiq-11b587171/)
 - [![Medium](https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png)](https://medium.com/@tayyabshafique_73575)
 
 I'm open to collaboration, feedback, and discussions related to projects, technology, or anything that sparks your interest.
