@@ -34,8 +34,8 @@ I regularly write technical articles on topics related to machine learning, prog
 Feel free to reach out to me through the following channels:
 
 - Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
+- [![LinkedIn](https://i.imgur.com/jDFmVvA.png)](https://www.linkedin.com/in/your-linkedin-profile)
+- [![Medium](https://i.imgur.com/fkS9cdB.png)](https://medium.com/@your-medium-profile)
 
 I'm open to collaboration, feedback, and discussions related to projects, technology, or anything that sparks your interest.
 
