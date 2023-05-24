@@ -26,7 +26,7 @@ Feel free to reach out to me through the following channels:
   Email: tayyabshafique@gmail.com<br> 
 
 <a href="https://www.linkedin.com/in/tayyab-shafiq-11b587171/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35" height="35"></a> &nbsp; &nbsp; 
- <a href="https://medium.com/@tayyabshafique_73575" style="display: inline-block; margin-left: 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="35" height="35"></a>
+ <a href="https://medium.com/@tayyabshafique_73575" style="display: inline-block; margin-left: 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Medium" width="45" height="45"></a>
 
 I'm open to collaboration, feedback, and discussions related to projects, technology, or anything that sparks your interest.
 
