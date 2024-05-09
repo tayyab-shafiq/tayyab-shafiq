@@ -6,7 +6,6 @@ I'm Tayyab Sahfiq, a Computer Science undergrad/Software Engineer/ML Enthusiast 
 
 - Computer Science undergraduate with a strong foundation in Statistics, Programming, Mathematics, Machine learning and AI.
 - Experience in developing and implementing machine learning algorithms and models.
-- Proficient in programming languages such as Python, C, C++, C#, Javascript.
 - Technical content writer, skilled at translating complex concepts into easily understandable content.
 
 ## Interests
